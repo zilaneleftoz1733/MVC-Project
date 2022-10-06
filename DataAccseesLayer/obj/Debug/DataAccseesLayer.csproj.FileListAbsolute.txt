@@ -1,0 +1,17 @@
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\DataAccseesLayer.dll.config
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\DataAccseesLayer.dll
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\DataAccseesLayer.pdb
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityFramework.dll
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityLayer.dll
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityFramework.xml
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.csproj.CopyComplete
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.dll
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.pdb
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.Migrations.mig1.resources
+C:\Users\lzila\source\repos\WebApplication3\DataAccseesLayer\obj\Debug\DataAccseesLayer.csproj.GenerateResource.cache
